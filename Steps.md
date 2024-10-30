@@ -1,11 +1,33 @@
 # Full-Pac-Man-Game
 - [ ] **Map**
   - [ ] Class Wall
-    - [ ] Properties
-      - [ ] Position (x, y)
-      - [ ] Shape is square
+    - [ ] Position (x, y)
+    - [ ] Shape is square
   - [ ] Class Node Inherit from Wall
     - [ ] Shape is circle
     - [ ] Point System
     - [ ] Collection System
-      - [ ] Shape Disappear 
+      - [ ] Shape Disappear
+- [ ] **PacMan**
+  - [ ] Class PacMan
+    - [ ] Position (x, y)
+    - [ ] Colour is Yellow
+    - [ ] Shape is circle
+    - [ ] Movement
+      - [ ] Node to node
+      - [ ] Check for nodes when it is moving
+- [ ] **Ghost**
+  - [ ] Class Ghost
+    - [ ] Position (x, y)
+    - [ ] Colour
+    - [ ] Shape
+    - [ ] Kill Pacman
+      - [ ] Check if Ghost touches Pacman
+    - [ ] Death mode
+      - [ ] Check if Pacman eats big node
+      - [ ] if pacman touches ghost then ghost dies and respawn at spawn
+    - [ ] Movement Algorithm
+      - [ ] Random Movement
+      - [ ] (optional)
+        - [ ] Chase
+        - [ ] Different Patterns
