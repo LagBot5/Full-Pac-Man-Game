@@ -1,0 +1,11 @@
+# Full-Pac-Man-Game
+- [ ] **Map**
+  - [ ] Class Wall
+    - [ ] Properties
+      - [ ] Position (x, y)
+      - [ ] Shape is square
+  - [ ] Class Node Inherit from Wall
+    - [ ] Shape is circle
+    - [ ] Point System
+    - [ ] Collection System
+      - [ ] Shape Disappear 
