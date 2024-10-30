@@ -8,6 +8,7 @@
     - [ ] Point System
     - [ ] Collection System
       - [ ] Shape Disappear
+- - -
 - [ ] **PacMan**
   - [ ] Class PacMan
     - [ ] Position (x, y)
@@ -16,6 +17,7 @@
     - [ ] Movement
       - [ ] Node to node
       - [ ] Check for nodes when it is moving
+- - -
 - [ ] **Ghost**
   - [ ] Class Ghost
     - [ ] Position (x, y)
