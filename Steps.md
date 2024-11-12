@@ -1,35 +1,35 @@
 # Full-Pac-Man-Game
-- [ ] **Map**
-  - [ ] Class Wall
-    - [ ] Position (x, y)
-    - [ ] Shape is square
-  - [ ] Class Node Inherit from Wall
-    - [ ] Shape is circle
-    - [ ] Point System
-    - [ ] Collection System
-      - [ ] Shape Disappear
+- [x] **Map**
+  - [x] Class Wall
+    - [x] Position (x, y)
+    - [x] Shape is square
+  - [x] Class Node Inherit from Wall
+    - [x] Shape is circle
+    - [x] Point System
+    - [x] Collection System
+      - [x] Shape Disappear
 - - -
-- [ ] **PacMan**
-  - [ ] Class PacMan
-    - [ ] Position (x, y)
-    - [ ] Colour is Yellow
-    - [ ] Shape is circle
-    - [ ] Movement
-      - [ ] Node to node
-      - [ ] Check for nodes when it is moving
+- [x] **PacMan**
+  - [x] Class PacMan
+    - [x] Position (x, y)
+    - [x] Colour is Yellow
+    - [x] Shape is circle
+    - [x] Movement
+      - [x] Node to node
+      - [x] Check for nodes when it is moving
 - - -
 - [ ] **Ghost**
-  - [ ] Class Ghost
-    - [ ] Position (x, y)
-    - [ ] Colour
-    - [ ] Shape
+  - [x] Class Ghost
+    - [x] Position (x, y)
+    - [x] Colour
+    - [x] Shape
     - [ ] Kill Pacman
-      - [ ] Check if Ghost touches Pacman
+      - [x] Check if Ghost touches Pacman
     - [ ] Death mode
-      - [ ] Check if Pacman eats big node
+      - [x] Check if Pacman eats big node
       - [ ] if pacman touches ghost then ghost dies and respawn at spawn
     - [ ] Movement Algorithm
-      - [ ] Random Movement
-      - [ ] (optional)
-        - [ ] Chase
-        - [ ] Different Patterns
+      - [0] Random Movement
+      - [0] (optional)
+        - [0] Chase
+        - [0] Different Patterns
