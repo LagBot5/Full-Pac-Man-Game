@@ -2,6 +2,9 @@
 ## Purpose
 The pupose of this project is to use our culimated skills with object oriented programming, and to create a full Pacman game. We intend to use classes and inheritance for the majority of this project.
 
+## Reflection
+Our first plan was to break down everything and sketched everything out so we can split up the work. After we discussed on who's doing what, Dane made the whole map and how Pacman can detect collision.
+
 ## Code
 https://openprocessing.org/sketch/2431207
 
