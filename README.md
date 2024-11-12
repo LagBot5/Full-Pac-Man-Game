@@ -4,3 +4,7 @@ The pupose of this project is to use our culimated skills with object oriented p
 
 ## Jasper
 https://openprocessing.org/sketch/2431207
+
+## Sketches
+https://www.figma.com/design/Pv84ZY2KfCAF7JPHzk3bLM/Pac-Man-Full-Game?node-id=0-1&node-type=canvas&t=65F1AcWioCEAvHqw-0
+(image.jpg)
